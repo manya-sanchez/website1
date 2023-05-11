@@ -1,4 +1,24 @@
-body {margin:0; color:rgb(red);}
 
-header {width:100%; height:60px; background:rgb(blue); padding:25px 0;}
-#char_name img(25px auto)
+  @import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
+
+  *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252A;
+  }
+
+  li, a, button {
+    font-family: 'Wix Madefor Text', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: aliceblue;
+    text-decoration: none;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+  }
