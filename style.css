@@ -5,14 +5,14 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #24252A;
+    background-color: none;
   }
 
   li, a, button {
     font-family: 'Wix Madefor Text', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    color: aliceblue;
+    color: darkcyan;
     text-decoration: none;
   }
 
@@ -38,4 +38,27 @@ button {
     border:none;
     border-radius: 50px;
     cursor: pointer;
+    transition: ALL 0.3S EASE 0S;
+}
+button:hover {
+  background-color: rgba(0,136,169,o.8);
+}
+
+.big_mai {
+  float: right;
+padding-right: 700px;
+}
+
+.table {
+  float:left;
+height: 70px;
+width:auto;
+}
+
+.bg {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border: 5px;
+  border-color: aquamarine;
+  box-sizing: content-box;
 }
