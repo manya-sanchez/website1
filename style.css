@@ -62,3 +62,7 @@ width:auto;
   border-color: aquamarine;
   box-sizing: content-box;
 }
+
+.gridtext-center{
+  padding-top: 700px;
+}
