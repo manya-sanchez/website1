@@ -14,3 +14,5 @@ Ideas for furture improvement:
 -different background colors for color-coding different characters
 -actually have github connected, not sure why it's not connecting to my file :( its been trying to sych for days now :((
 -better looking font
+
+//note; omg the commits are finally showing on github. of course it would happen after the project is finshed lmao//
