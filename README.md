@@ -16,3 +16,8 @@ Ideas for furture improvement:
 -better looking font
 
 //note; omg the commits are finally showing on github. of course it would happen after the project is finshed lmao//
+
+user stories:
+1)as a user i want a way to easily and quickly acces all the information about my dnd charater. 
+2)having all my refrence photos for my dnd charater and trivia in one spot to keep roleplay going smoothly is somthing crucial to me when i want to play a new charater.
+3)having my own custome page for my character would help me dive more into roleplay while also easily keeping track of their health and items.
